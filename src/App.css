@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(240, 233, 221);
+}
+.st{
+text-align: center;
+}
+.form{
+  text-align: center;
+ 
+}
+.form input{
+  border-style: solid;
+  border-color: green;
+  border-radius: 10px;
+}
+.form button{
+  border-radius: 10px;
+}
+#tr{
+  text-align: center;
+  color: green;
+}
+#fl{
+  text-align: center;
+  color: red;
+}
