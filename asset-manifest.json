@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Armstrong-number-Check-in-React/static/css/main.d6ebe0d8.css",
+    "main.js": "/Armstrong-number-Check-in-React/static/js/main.543b38fb.js",
+    "index.html": "/Armstrong-number-Check-in-React/index.html",
+    "main.d6ebe0d8.css.map": "/Armstrong-number-Check-in-React/static/css/main.d6ebe0d8.css.map",
+    "main.543b38fb.js.map": "/Armstrong-number-Check-in-React/static/js/main.543b38fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ebe0d8.css",
+    "static/js/main.543b38fb.js"
+  ]
+}
